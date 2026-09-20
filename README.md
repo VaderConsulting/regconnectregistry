@@ -1,6 +1,6 @@
 # regconnectregistry
 
-VB6 working copy of `regconnectregistry` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: projRegBlast. `VersionCompanyName`: microsoft.
+Microsoft sample VB6 RegConnectRegistry demo (`projRegBlast.vbp`): Query Value against a remote machine's HKLM/HKU (e.g. Session Manager Environment `Siteloc`) via `RegConnectRegistry` / `RegOpenKeyEx` / `RegQueryValueEx`. Open `projRegBlast.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
