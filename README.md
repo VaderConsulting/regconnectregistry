@@ -23,7 +23,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/regconnectregistry`.
+Working copy from my Historical Dev folder `VB/Old/regconnectregistry`.
 Company names in project files: microsoft.
 Third-party attribution: Microsoft. See `THIRD_PARTY_NOTICES.md`.
 
